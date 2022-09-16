@@ -7,5 +7,6 @@
   "workspaces": [
     "packages/server",
     "packages/frontend"
-  ]
+  ],
+  "dependencies": {}
 }
