@@ -1,0 +1,11 @@
+{
+  "name": "next-nest-template",
+  "version": "1.0.0",
+  "description": "next-nest-template",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "packages/server",
+    "packages/frontend"
+  ]
+}
